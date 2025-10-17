@@ -64,6 +64,16 @@ Business and communication tools:
 
 - **internal-comms** - Write internal communications like status reports, newsletters, and FAQs
 
+### ⚡ Workflow Skills
+Professional development workflow automation:
+
+- **nextjs-pro** - Expert Next.js 15 and React 19 development with App Router, Server Components, and 2025 best practices
+- **project-init** - Automate complete Next.js project setup with GitHub, Vercel, and NeonDB integration (qinit workflow)
+- **code-enforcer** - Enforce strict code quality standards with zero tolerance for errors, workarounds, or technical debt
+- **web-builder** - Build modern web interfaces using SuperDesign patterns with ShadCN UI components
+- **debug-protocol** - Systematic debugging protocol for diagnosing, fixing, and preventing errors with root cause analysis
+- **deployment-manager** - Manage Vercel deployments, GitHub workflows, and NeonDB integrations with automated monitoring
+
 ## Usage Examples
 
 ### Document Creation
@@ -85,6 +95,16 @@ Business and communication tools:
 "Build an interactive dashboard artifact using the artifacts-builder skill"
 "Create an MCP server for the GitHub API using the mcp-builder skill"
 "Test the login flow on localhost:3000 using the webapp-testing skill"
+```
+
+### Workflow Automation
+```
+"Use nextjs-pro to create a new dashboard page with Server Components"
+"Use project-init to set up a new SaaS project with Vercel and NeonDB"
+"Use code-enforcer to review this code and ensure quality standards"
+"Use web-builder to create a landing page with SuperDesign and ShadCN"
+"Use debug-protocol to diagnose this build error systematically"
+"Use deployment-manager to deploy this app to Vercel production"
 ```
 
 ## Creating Your Own Skills

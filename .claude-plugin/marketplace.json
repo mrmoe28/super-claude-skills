@@ -54,6 +54,20 @@
       "skills": [
         "./internal-comms"
       ]
+    },
+    {
+      "name": "workflow-skills",
+      "description": "Professional workflow skills for Next.js development, project setup, code quality, web building, debugging, and deployment management",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./nextjs-pro",
+        "./project-init",
+        "./code-enforcer",
+        "./web-builder",
+        "./debug-protocol",
+        "./deployment-manager"
+      ]
     }
   ]
 }
