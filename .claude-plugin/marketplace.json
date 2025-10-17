@@ -1,0 +1,59 @@
+{
+  "name": "super-claude-skills",
+  "owner": {
+    "name": "mrmoe28",
+    "email": "mrmoe28@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Collection of curated Claude skills from various sources",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "document-skills",
+      "description": "Collection of document processing suite including Excel, Word, PowerPoint, and PDF capabilities",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./document-skills/xlsx",
+        "./document-skills/docx",
+        "./document-skills/pptx",
+        "./document-skills/pdf"
+      ]
+    },
+    {
+      "name": "creative-skills",
+      "description": "Creative and design skills including canvas design, algorithmic art, and Slack GIF creation",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./canvas-design",
+        "./algorithmic-art",
+        "./slack-gif-creator",
+        "./theme-factory",
+        "./brand-guidelines"
+      ]
+    },
+    {
+      "name": "development-skills",
+      "description": "Development and technical skills for building artifacts, MCP servers, and testing web apps",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./artifacts-builder",
+        "./mcp-builder",
+        "./webapp-testing",
+        "./skill-creator"
+      ]
+    },
+    {
+      "name": "enterprise-skills",
+      "description": "Enterprise and communication skills for internal comms and brand guidelines",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./internal-comms"
+      ]
+    }
+  ]
+}
