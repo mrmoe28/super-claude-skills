@@ -73,6 +73,13 @@ Professional development workflow automation:
 - **web-builder** - Build modern web interfaces using SuperDesign patterns with ShadCN UI components
 - **debug-protocol** - Systematic debugging protocol for diagnosing, fixing, and preventing errors with root cause analysis
 - **deployment-manager** - Manage Vercel deployments, GitHub workflows, and NeonDB integrations with automated monitoring
+- **database-optimizer** - Optimize database performance with query analysis, indexing strategies, and caching for PostgreSQL/NeonDB
+- **api-designer** - Design scalable RESTful APIs with versioning, authentication, rate limiting, and Next.js App Router patterns
+- **legacy-refactor** - Safely refactor legacy code with incremental improvements, testing, and risk mitigation strategies
+- **system-architect** - Design scalable system architectures including microservices, monoliths, database design, and caching
+- **subscription-builder** - Add subscription billing to apps using Stripe or Square with webhooks and trial management
+- **square-integration** - Complete Square payment integration including one-time payments, subscriptions, and webhooks
+- **auth-setup** - Quick, error-free authentication setup using NextAuth or Clerk with proper TypeScript and middleware
 
 ## Usage Examples
 
@@ -105,6 +112,13 @@ Professional development workflow automation:
 "Use web-builder to create a landing page with SuperDesign and ShadCN"
 "Use debug-protocol to diagnose this build error systematically"
 "Use deployment-manager to deploy this app to Vercel production"
+"Use database-optimizer to analyze and fix these slow queries"
+"Use api-designer to create a RESTful API for user management"
+"Use legacy-refactor to modernize this callback-based code"
+"Use system-architect to design a scalable architecture for my SaaS"
+"Use subscription-builder to add Stripe subscriptions with trials"
+"Use square-integration to add Square payment processing"
+"Use auth-setup to implement NextAuth with Google OAuth"
 ```
 
 ## Creating Your Own Skills
